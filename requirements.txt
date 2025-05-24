@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+transformers
+torch
+neo4j
+gradio
+streamlit
+requests
+pymongo
+pandas
+python-dotenv
+neo4j
+Pillow
+langchain
+langchain-community
+langchain-google-community
+langchain-ollama
+langchain-huggingface
+sentence-transformers
+torch
+pip install streamlit requests pymongo pandas python-dotenv neo4j pillow langchain langchain-groq langchain-huggingface langchain-google-community sentence-transformers torch
